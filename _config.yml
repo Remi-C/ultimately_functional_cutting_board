@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://remi.cura.info"
-baseurl: ""
+url: "http://Remi-C.github.io/ultimately_functional_cutting_board/"
+baseurl: "/ultimately_functional_cutting_board/"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,25 +14,26 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Rémi Cura website
+title: Ultimately functional wooden cutting board : design and build
 
 # Short description of your site
-description: A simple website with information about me
+description: A website about desiging and building advanced functional wooden cutting board
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://github.com/Remi-C"
-#  Author's home: "http://deanattali.com"
+  Presentation: "presentation"
+  Designing: "designing"
+  Constructing: "constructing"
+  Resources: 
+    - images: "https://github.com/Remi-C/ultimately_functional_cutting_board/pictures"
+    - GitHub Pages: "https://github.com/Remi-C/ultimately_functional_cutting_board"
+  Author's home: "http://remi.cura.info/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://avatars2.githubusercontent.com/u/4725794?v=3&s=400"
+avatar: "./img/logo.jpg"
 
 # --- Footer options --- #
 
@@ -57,11 +58,11 @@ footer-links-active:
   email: true
   twitter: false
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   instagram: false
-  youtube: true
+  youtube: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -72,7 +73,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "remi.cura.info"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "remi.cura.info"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -80,7 +81,7 @@ url-pretty: "remi.cura.info"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-83625229-1"
+#google_analytics: "UA-83625229-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
