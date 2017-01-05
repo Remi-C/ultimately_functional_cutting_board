@@ -11,16 +11,22 @@ The main idea is to __never let the wooden board soak in water__.
 
 
 What to do the first time you get the board: 
+
+
  - generously oil it with olive oil or other edible oil, __untill it is saturated__ (oil don't enter the board anymore).
  - You can leave the oil on the board overnight
  - You can slightly warm the oil so it penetrates better the wood.  
 
 
 Once every few months :
+
+
  - put some oil on the board (light oiling) qnd let it penetrate overnight
 
  
 Everyday use : 
+
+
  - Clean it as you clean anything else (manually). Let water run on it from you tap, then use your usual dishwashing soap, your regular spong/scrub sponge if you want. 
  - roughly wimp it to remove excess water if you can, or simply shake it once or twice
  - let it rest on the side, where the water will further evaporates.
@@ -28,6 +34,8 @@ Everyday use :
   
 
 What __not__ to do : 
+
+
  - put the cutting board in the dishwasher. 
   * This is dangerous for the board, it may twist/crack, and become permanently curved.
   * Your board is not available untill the dishwasher is launched and finished.
@@ -36,4 +44,6 @@ What __not__ to do :
 
  
 What you could try :
+
+
  - use your cutting board as a trivet (table mat) 
