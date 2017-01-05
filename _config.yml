@@ -26,6 +26,7 @@ navbar-links:
   Presentation: "presentation"
   Designing: "designing"
   Constructing: "constructing"
+  Maintenance: "maintenance"
   Resources: 
     - images: "https://github.com/Remi-C/ultimately_functional_cutting_board/pictures"
     - GitHub Pages: "https://github.com/Remi-C/ultimately_functional_cutting_board"
