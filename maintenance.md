@@ -12,6 +12,13 @@ The main idea is to __never let the wooden board soak in water__.
 
 ![Maintenance, DO and DON'T](http://remi.cura.info/ultimately_functional_cutting_board/img/maintaining/maintaining_do_dont.png)
 
+![Maintenance, DO and DON'T]({{site.url}}/img/maintaining/maintaining_do_dont.png)
+
+![Maintenance, DO and DON'T]({{site.url}}/img/maintaining/maintaining_do_dont.svg)
+
+
+![Maintenance, DO and DON'T](http://remi.cura.info/ultimately_functional_cutting_board/img/maintaining/maintaining_do_dont.svg)
+
 displaying web site url  :  {{site.url}}
 
 What to do the first time you get the board: 
