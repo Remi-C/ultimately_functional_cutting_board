@@ -28,7 +28,7 @@ navbar-links:
   Constructing: "constructing"
   Maintenance: "maintenance"
   Resources: 
-    - images: "https://github.com/Remi-C/ultimately_functional_cutting_board/pictures"
+    - images: "{{site.url}}/img"
     - GitHub Pages: "https://github.com/Remi-C/ultimately_functional_cutting_board"
   Author's home: "http://remi.cura.info/"
 
