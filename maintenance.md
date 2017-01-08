@@ -10,6 +10,9 @@ the cutting board fears only prolongated contact with water and/or steam!
 The main idea is to __never let the wooden board soak in water__.
 
 
+[Maintenance, DO and DON'T](./img/maintaining/maintaining_do_dont.svg)
+
+
 What to do the first time you get the board: 
 
 
