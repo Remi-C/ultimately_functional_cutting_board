@@ -6,8 +6,8 @@ subtitle: Presentation of this cutting board design
 
 This projet is about designing the ultimately functional wooden cutting board! 
 
-![The design choices and advantages]({{site.url}}/img/results/example/combo/selected/several_boards_combo(11).jpg)
-![The design choices and advantages]({{site.url}}/img/results/example/combo/selected/several_boards_combo(19).jpg)
-![The design choices and advantages]({{site.url}}/img/results/example/combo/selected/several_boards_combo(28).jpg)
+![Boards view 1]({{site.url}}/img/results/example/combo/selected/several_boards_combo_1.jpg)
+![Boards view 2]({{site.url}}/img/results/example/combo/selected/several_boards_combo_2.jpg)
+![Boards view 3]({{site.url}}/img/results/example/combo/selected/several_boards_combo_3.jpg)
  
  
