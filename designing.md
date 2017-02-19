@@ -6,4 +6,4 @@ subtitle: Detailed design of this cutting board
 
 Detailed design
 
-![The design choices and advantages]({{site.url}}/img/design/illustration/design_principles_RG.svg)
+![The design choices and advantages]({{site.url}}/img/design/illustration/design_principles_RG.jpg)
