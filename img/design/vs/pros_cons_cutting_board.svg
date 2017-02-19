@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146.37656mm"
+   height="183.70895mm"
+   viewBox="0 0 146.37656 183.70896"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="pros_cons_cutting_board.svg"
+   inkscape:export-filename="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\design\vs\pros_cons_cutting_board.png"
+   inkscape:export-xdpi="120.02129"
+   inkscape:export-ydpi="120.02129">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6156">
+      <stop
+         style="stop-color:#f6bfbf;stop-opacity:1"
+         offset="0"
+         id="stop6152" />
+      <stop
+         id="stop6356"
+         offset="0.34118354"
+         style="stop-color:#f0e8e8;stop-opacity:0.627451" />
+      <stop
+         id="stop6160"
+         offset="0.6612227"
+         style="stop-color:#e0e0e0;stop-opacity:0.51764709" />
+      <stop
+         style="stop-color:#ccffc9;stop-opacity:1"
+         offset="1"
+         id="stop6154" />
+    </linearGradient>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="708.58998"
+       height="864.12951"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-288.12909,-19.803192)"
+       id="pattern5429">
+      <g
+         id="g5427"
+         transform="matrix(3.7795276,0,0,3.7795276,1088.9918,74.846732)">
+        <rect
+           y="-18.710588"
+           x="-288.12909"
+           height="227.54166"
+           width="51.651917"
+           id="rect5423"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.34200003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff6336;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.42585549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <rect
+           y="-19.803198"
+           x="-158.91081"
+           height="227.54167"
+           width="58.262821"
+           id="rect5425"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.34200003;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#aad400;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4522877;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6156"
+       id="linearGradient6158"
+       x1="-9.8847351"
+       y1="148.18272"
+       x2="178.59636"
+       y2="148.18272"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.86823426,0.32049111,4.4623247)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6156"
+       id="linearGradient6358"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82349016,0,0,0.80345731,-1.6564978,15.651876)"
+       x1="-9.8847351"
+       y1="148.18272"
+       x2="178.59636"
+       y2="148.18272" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6156"
+       id="linearGradient6370"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.78075371,0,0,0.80345731,5.8799313,15.65183)"
+       x1="-9.8847351"
+       y1="148.18272"
+       x2="178.59636"
+       y2="148.18272" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.82555592"
+     inkscape:cx="357.76108"
+     inkscape:cy="429.61799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.4472351,-42.861427)">
+    <rect
+       style="opacity:0.375;fill:url(#linearGradient6370);fill-opacity:1;stroke:none;stroke-width:0.79202414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       width="146.37656"
+       height="183.69791"
+       x="-1.4472351"
+       y="42.861427"
+       id="rect5434" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-50.681931,21.865278)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4598"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+         id="flowRegion4594"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+           y="152.26816"
+           x="597.00018"
+           height="56.063469"
+           width="232.84021"
+           id="rect4592" /></flowRegion><flowPara
+         style="font-size:21.33333397px"
+         id="flowPara4596">Easy to clean</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4608"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.17919162,0,0,0.17919162,-50.231146,37.487519)"><flowRegion
+         id="flowRegion4610"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"><rect
+           id="rect4612"
+           width="227.14284"
+           height="136.42857"
+           x="283.57144"
+           y="115.37682"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'" /></flowRegion><flowPara
+         id="flowPara4616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">Kill knifes!</flowPara><flowPara
+         id="flowPara4620"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">(too hard)</flowPara></flowRoot>    <g
+       id="g5314"
+       transform="translate(-64.489524,3.0238097)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4684"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.17919162,0,0,0.17919162,14.963638,65.66364)"><flowRegion
+           id="flowRegion4680"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"><rect
+             id="rect4678"
+             width="292.90631"
+             height="256.26569"
+             x="283.57144"
+             y="115.37682"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'" /></flowRegion><flowPara
+           id="flowPara4682"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">Not hygienic</flowPara><flowPara
+           id="flowPara6263"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">Too flexible</flowPara><flowPara
+           id="flowPara6265"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">Plastic!</flowPara></flowRoot>    </g>
+    <g
+       id="g5300"
+       transform="translate(-63.482408,-28.139423)">
+      <flowRoot
+         transform="matrix(0.17919162,0,0,0.17919162,14.368684,134.39893)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:47.24923325px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4741"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:47.24923325px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+           id="flowRegion4737"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:47.24923325px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+             y="115.37682"
+             x="283.57144"
+             height="162.32343"
+             width="358.39056"
+             id="rect4735" /></flowRegion><flowPara
+           id="flowPara4739"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">Won't stay flat</flowPara><flowPara
+           id="flowPara6267"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'">Soft</flowPara></flowRoot>    </g>
+    <flowRoot
+       transform="matrix(0.17919162,0,0,0.17919162,-49.691218,145.53004)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4751-4"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+         id="flowRegion4747-5"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:39.37436295px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+           y="115.37682"
+           x="283.57144"
+           height="146.62213"
+           width="370.17526"
+           id="rect4745-3" /></flowRegion><flowPara
+         id="flowPara4749-4">Heavy</flowPara><flowPara
+         id="flowPara6269"
+         style="line-height:39.37436295px;letter-spacing:-2.28863478px">more nice than functional</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.17919162,0,0,0.17919162,-50.318637,189.50728)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:80.00000119%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4751-4-6"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:80.00000119%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+         id="flowRegion4747-5-8"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:80.00000119%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+           y="115.37682"
+           x="283.57144"
+           height="78.262115"
+           width="277.90631"
+           id="rect4745-3-9" /></flowRegion><flowPara
+         id="flowPara4749-4-8">Hard to build</flowPara></flowRoot>    <rect
+       style="fill:#949494;fill-opacity:1;stroke:none;stroke-width:0.26043984;stroke-opacity:1"
+       id="rect4606-0"
+       width="69.788635"
+       height="10.885494"
+       x="-1.4472351"
+       y="42.861427" />
+    <rect
+       y="78.028503"
+       x="-1.4472351"
+       height="10.885494"
+       width="69.788643"
+       id="rect4606-5-9"
+       style="fill:#949494;fill-opacity:1;stroke:none;stroke-width:0.26043984;stroke-opacity:1" />
+    <rect
+       y="113.72787"
+       x="-1.4472351"
+       height="10.885493"
+       width="69.788643"
+       id="rect4606-5-0-7"
+       style="fill:#949494;fill-opacity:1;stroke:none;stroke-width:0.27009121;stroke-opacity:1" />
+    <rect
+       y="147.84558"
+       x="-1.4472351"
+       height="10.885494"
+       width="69.788643"
+       id="rect4606-5-0-9-2"
+       style="fill:#949494;fill-opacity:1;stroke:none;stroke-width:0.26043984;stroke-opacity:1" />
+    <rect
+       y="186.01572"
+       x="-1.4472351"
+       height="10.885494"
+       width="69.788643"
+       id="rect4606-5-0-1"
+       style="fill:#949494;fill-opacity:1;stroke:none;stroke-width:0.26043984;stroke-opacity:1" />
+    <image
+       sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\design\vs\src/model_exploded_view_icon.png"
+       xlink:href="src/model_exploded_view_icon.png"
+       width="55.118084"
+       height="30.523853"
+       preserveAspectRatio="none"
+       id="image6170"
+       x="50.806431"
+       y="196.04652" />
+    <image
+       sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\design\vs\src/plastic_board.png"
+       xlink:href="src/plastic_board.png"
+       width="43.178562"
+       height="26.085672"
+       preserveAspectRatio="none"
+       id="image6181"
+       x="56.698589"
+       y="86.683823" />
+    <image
+       sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\design\vs\src/wodden_against.png"
+       xlink:href="src/wodden_against.png"
+       width="45.129627"
+       height="28.20467"
+       preserveAspectRatio="none"
+       id="image6192"
+       x="56.108295"
+       y="158.7007" />
+    <image
+       sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\design\vs\src/wooden_along.png"
+       xlink:href="src/wooden_along.png"
+       width="44.419113"
+       height="22.242359"
+       preserveAspectRatio="none"
+       id="image6203"
+       x="57.031624"
+       y="124.0976" />
+    <image
+       sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\design\vs\src/marble_cutting_board.png"
+       xlink:href="src/marble_cutting_board.png"
+       width="41.322109"
+       height="22.318417"
+       preserveAspectRatio="none"
+       id="image6214"
+       x="58.049335"
+       y="54.652901" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-69.25058,66.780327)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6223"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"
+         id="flowRegion6219"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"
+           y="-86.640892"
+           x="262.09573"
+           height="114.96336"
+           width="229.91072"
+           id="rect6217" /></flowRegion><flowPara
+         id="flowPara6221">Marble</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6231"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-69.25058,101.70534)"><flowRegion
+         id="flowRegion6227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"><rect
+           id="rect6225"
+           width="229.91072"
+           height="114.96336"
+           x="262.09573"
+           y="-86.640892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6229">Plastic</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-69.25058,137.68871)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6239"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"
+         id="flowRegion6235"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"
+           y="-86.640892"
+           x="262.09573"
+           height="67.854652"
+           width="266.74118"
+           id="rect6233" /></flowRegion><flowPara
+         id="flowPara6237">Wood (along)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6247"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-69.25058,171.55538)"><flowRegion
+         id="flowRegion6243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"><rect
+           id="rect6241"
+           width="309.56729"
+           height="61.002476"
+           x="262.09573"
+           y="-86.640892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara6245">Wood (against)</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-69.25058,209.12624)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6255"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"
+         id="flowRegion6251"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';fill:#ffffff;fill-opacity:1"
+           y="-86.640892"
+           x="262.09573"
+           height="61.002476"
+           width="309.56729"
+           id="rect6249" /></flowRegion><flowPara
+         id="flowPara6253">Ultimate</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6286"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:125%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-50.681931,55.77983)"><flowRegion
+         id="flowRegion6282"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"><rect
+           id="rect6280"
+           width="232.84021"
+           height="56.063469"
+           x="597.00018"
+           y="152.26816"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'" /></flowRegion><flowPara
+         id="flowPara6284"
+         style="font-size:21.33333397px">Easy to clean</flowPara></flowRoot>    <g
+       transform="translate(42.09186,-26.154665)"
+       id="g6308">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6306"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:120.00000477%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.17919162,0,0,0.17919162,14.368684,134.39893)"><flowRegion
+           id="flowRegion6300"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:120.00000477%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"><rect
+             id="rect6298"
+             width="358.39056"
+             height="162.32343"
+             x="283.57144"
+             y="115.37682"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:120.00000477%;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'" /></flowRegion><flowPara
+           id="flowPara6304">Hygienic</flowPara><flowPara
+           id="flowPara6312">Natural</flowPara></flowRoot>    </g>
+    <g
+       id="g6324"
+       transform="translate(42.350931,5.5028984)">
+      <flowRoot
+         transform="matrix(0.17919162,0,0,0.17919162,14.368684,134.39893)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:35.43692398px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot6322"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:35.43692398px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+           id="flowRegion6316"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:35.43692398px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"
+             y="115.37682"
+             x="283.57144"
+             height="283.94406"
+             width="356.60205"
+             id="rect6314" /></flowRegion><flowPara
+           id="flowPara6318">Hygienic</flowPara><flowPara
+           id="flowPara6320">Natural</flowPara><flowPara
+           id="flowPara6328">Durable</flowPara><flowPara
+           id="flowPara6332">Good for knife</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(42.350931,40.859469)"
+       id="g6348">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:29.53077126px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.17919162,0,0,0.17919162,14.368684,134.39893)"><flowRegion
+           id="flowRegion6336"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:29.53077126px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'"><rect
+             id="rect6334"
+             width="356.60205"
+             height="283.94406"
+             x="283.57144"
+             y="115.37682"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.49948883px;line-height:29.53077126px;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI'" /></flowRegion><flowPara
+           id="flowPara6352"
+           style="line-height:29.53077126px">Light</flowPara><flowPara
+           id="flowPara6350"
+           style="line-height:29.53077126px">Hygienic</flowPara><flowPara
+           id="flowPara6340"
+           style="line-height:29.53077126px">Natural</flowPara><flowPara
+           id="flowPara6342"
+           style="line-height:29.53077126px">Durable</flowPara><flowPara
+           id="flowPara6344"
+           style="line-height:29.53077126px">Good for knife</flowPara></flowRoot>    </g>
+  </g>
+</svg>
