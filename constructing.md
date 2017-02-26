@@ -13,9 +13,16 @@ subtitle: Details on how to construct this cutting board
 
 ![Board building 1]({{site.url}}/img/build/building_process/building_process_1.jpg)
 
+==================================================================================
+
+
 ## Rough board building
 
 ![Board building 2]({{site.url}}/img/build/building_process/building_process_2.jpg)
+
+
+===================================================================================
+
 
 ## Finishing the board
 
