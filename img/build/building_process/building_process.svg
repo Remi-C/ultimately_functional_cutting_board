@@ -2773,8 +2773,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-110.05655"
-     inkscape:cy="508.73257"
+     inkscape:cx="-1922.7225"
+     inkscape:cy="646.49994"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2804,7 +2804,9 @@
        d="M 46.458576,42.102052 V 244.94251"
        id="path6981"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <path
        sodipodi:type="star"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ddc48b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1323158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -3443,6 +3445,8 @@
     <image
        sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/12_rough_planning_of border.jpg"
        xlink:href="src/12_rough_planning_of border.jpg"
+       inkscape:export-ydpi="151.02377"
+       inkscape:export-xdpi="151.02377"
        transform="matrix(0.99305779,0,0,0.99305779,-30.40999,2.060817)"
        clip-path="url(#clipPath31995)"
        y="53.574326"
@@ -3454,6 +3458,8 @@
     <image
        sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/14_groove_for_juice (2).jpg"
        xlink:href="src/14_groove_for_juice (2).jpg"
+       inkscape:export-ydpi="151.02377"
+       inkscape:export-xdpi="151.02377"
        y="-84.683617"
        x="121.51717"
        id="image7123"
@@ -3463,7 +3469,9 @@
        transform="rotate(90)" />
     <g
        id="g6352-7-9-3"
-       transform="matrix(1.4386638,0,0,1.4386638,12.858461,238.8198)">
+       transform="matrix(1.4386638,0,0,1.4386638,12.858461,238.8198)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <image
          sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/several_boards_combo (15).JPG"
          xlink:href="src/several_boards_combo (15).JPG"
@@ -4536,7 +4544,9 @@
            style="font-size:21.33333397px;line-height:13.33333397px;text-align:center;letter-spacing:-2px;text-anchor:middle">naked board</flowPara></flowRoot>    </g>
     <g
        id="g6352-7-9-0"
-       transform="matrix(1.392597,0,0,1.392597,13.934354,-10.266227)">
+       transform="matrix(1.392597,0,0,1.392597,13.934354,-10.266227)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <image
          sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/board_naked.png"
          xlink:href="src/board_naked.png"
@@ -4574,6 +4584,8 @@
     <image
        sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/fixing_repairing.JPG"
        xlink:href="src/fixing_repairing.JPG"
+       inkscape:export-ydpi="151.02377"
+       inkscape:export-xdpi="151.02377"
        y="172.86763"
        x="49.066235"
        id="image29502"
@@ -4590,10 +4602,14 @@
        height="32.39188"
        width="57.585567"
        clip-path="url(#clipPath34425)"
-       transform="matrix(0.99305779,0,0,0.99305779,-31.460976,0.12962533)" />
+       transform="matrix(0.99305779,0,0,0.99305779,-31.460976,0.12962533)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <g
        id="g73264"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.87915721,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.87915721,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <g
          inkscape:export-ydpi="146"
          inkscape:export-xdpi="146"
@@ -4622,7 +4638,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">rough hand planning</flowPara></flowRoot>    </g>
     <g
        id="g73314"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          inkscape:connector-curvature="0"
          id="rect22952-8-19"
@@ -4645,7 +4663,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker46645);marker-mid:url(#marker47501);marker-end:url(#marker48363)">trimming</flowPara></flowRoot>    </g>
     <g
        id="g73364"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          inkscape:connector-curvature="0"
          id="path49465"
@@ -4668,7 +4688,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker56449);marker-mid:url(#marker57377);marker-end:url(#marker58311)">quarter rounding</flowPara></flowRoot>    </g>
     <g
        id="g73389"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 10.837321,141.42734 h 36.159085 v 10.57469 H 10.837321 Z"
@@ -4691,7 +4713,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;word-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker59593);marker-mid:url(#marker60539);marker-end:url(#marker61491)">juice groove routing</flowPara></flowRoot>    </g>
     <g
        id="g73464"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          inkscape:connector-curvature="0"
          id="path49473"
@@ -4714,7 +4738,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker69346);marker-mid:url(#marker70346);marker-end:url(#marker71352)">hand sanding</flowPara></flowRoot>    </g>
     <g
        id="g73414"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          inkscape:connector-curvature="0"
          id="path49465-1"
@@ -4737,7 +4763,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker62791);marker-mid:url(#marker63755);marker-end:url(#marker64725)">repair &amp; fixes</flowPara></flowRoot>    </g>
     <g
        id="g73489"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="M 10.837321,226.62323 H 46.996406 V 232.7 H 10.837321 Z"
@@ -4760,7 +4788,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker50411);marker-mid:url(#marker51303);marker-end:url(#marker52201)">hot oiling</flowPara></flowRoot>    </g>
     <g
        id="g73439"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 10.837321,189.14316 h 36.159085 v 6.07677 H 10.837321 Z"
@@ -4783,7 +4813,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker66076);marker-mid:url(#marker67058);marker-end:url(#marker68046)">hand guilloching</flowPara></flowRoot>    </g>
     <g
        id="g73339"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,2.060817)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 10.837321,113.91068 h 36.159085 v 6.07677 H 10.837321 Z"
@@ -4806,7 +4838,9 @@
            id="flowPara29486">corner rounding</flowPara></flowRoot>    </g>
     <g
        id="g73289"
-       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,7.3157478)">
+       transform="matrix(0.99305779,0,0,0.99305779,-0.4568837,7.3157478)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 10.837321,87.196391 h 36.159085 v 6.076767 H 10.837321 Z"
@@ -4844,18 +4878,22 @@
        d="m 49.749515,244.49848 -3.339252,5.80596 -3.358489,-5.79486 z"
        inkscape:transform-center-x="0.0087130209"
        inkscape:transform-center-y="0.34157832"
-       inkscape:export-xdpi="146"
-       inkscape:export-ydpi="146" />
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <rect
        style="fill:none;stroke:#69521f;stroke-width:0.99305779;stroke-opacity:1"
        width="48.000004"
        height="30.750288"
        x="48.890705"
        y="55.263218"
-       id="rect73122" />
+       id="rect73122"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <g
        id="g114945"
-       transform="matrix(1.2194539,0,0,1.2194539,-33.179461,-13.110459)">
+       transform="matrix(1.2194539,0,0,1.2194539,-33.179461,-13.110459)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <g
          id="g114940">
         <image
@@ -4884,17 +4922,23 @@
        height="41.978336"
        x="49.071297"
        y="121.51717"
-       id="rect73136" />
+       id="rect73136"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <rect
        style="fill:none;stroke:#69521f;stroke-width:0.99305779;stroke-opacity:1"
        width="29.313755"
        height="12.111673"
        x="49.066235"
        y="172.86763"
-       id="rect73143" />
+       id="rect73143"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <g
        id="g117504"
-       transform="matrix(0.97292485,0,0,0.97292485,1.7080201,6.1935319)">
+       transform="matrix(0.97292485,0,0,0.97292485,1.7080201,6.1935319)"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377">
       <g
          transform="matrix(1.1312189,0,0,1.1312189,-56.326148,-32.941454)"
          id="g34499">
@@ -4946,18 +4990,24 @@
        height="25.037254"
        x="49.120468"
        y="217.58681"
-       id="rect73166" />
+       id="rect73166"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26316029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2631603, 0.5263206;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:0.26316029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2631603, 0.52632060000000003;stroke-dashoffset:0;stroke-opacity:1"
        d="M 47.770156,193.14244 H 80.993765"
        id="path114921"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26316029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2631603, 0.5263206;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#252525;stroke-width:0.26316029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2631603, 0.52632060000000003;stroke-dashoffset:0;stroke-opacity:1"
        d="M 47.938427,96.980259 H 101.65627"
        id="path114921-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="151.02377"
+       inkscape:export-ydpi="151.02377" />
   </g>
 </svg>
