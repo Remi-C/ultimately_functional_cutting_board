@@ -2,6 +2,8 @@
 layout: page
 title: Maintaining the cutting board
 subtitle: A durable cutting board through basic maintenance.
+lang: en
+ref: maintain
 ---
 Detailed maintaining
 

@@ -2,6 +2,8 @@
 layout: page
 title: Constructing this cutting board
 subtitle: Details on how to construct this cutting board
+lang: en
+ref: build
 ---
 
 # Building the board

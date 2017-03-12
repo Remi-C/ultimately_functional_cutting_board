@@ -2,6 +2,8 @@
 layout: page
 title: Presentation
 subtitle: Presentation of this cutting board design
+lang: en
+ref: present
 ---
 
 This projet is about designing the ultimately functional wooden cutting board! 
