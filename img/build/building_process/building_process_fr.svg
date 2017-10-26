@@ -1559,12 +1559,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_wood.jpg"
          xlink:href="src/raw_wood.jpg"
-         width="139.60001"
-         height="141.56007"
-         preserveAspectRatio="none"
-         id="image4952"
+         y="-2.8421709e-014"
          x="0"
-         y="-2.8421709e-014" />
+         id="image4952"
+         preserveAspectRatio="none"
+         height="141.56007"
+         width="139.60001" />
     </pattern>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -1888,23 +1888,23 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/01_trimming (2).jpg"
            xlink:href="src/01_trimming (2).jpg"
-           y="319.9252"
-           x="42.646717"
-           id="image27004"
-           preserveAspectRatio="none"
-           height="25.892551"
+           transform="rotate(90)"
            width="46.031208"
-           transform="rotate(90)" />
+           height="25.892551"
+           preserveAspectRatio="none"
+           id="image27004"
+           x="42.646717"
+           y="319.9252" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/02_straightening_planning (2).jpg"
            xlink:href="src/02_straightening_planning (2).jpg"
-           y="294.03268"
-           x="42.646717"
-           id="image27006"
-           preserveAspectRatio="none"
-           height="25.892551"
+           transform="rotate(90)"
            width="46.031208"
-           transform="rotate(90)" />
+           height="25.892551"
+           preserveAspectRatio="none"
+           id="image27006"
+           x="42.646717"
+           y="294.03268" />
       </g>
     </pattern>
     <pattern
@@ -1916,14 +1916,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/03_gluing (1).jpg"
          xlink:href="src/03_gluing (1).jpg"
-         transform="matrix(2.5682137,0,0,3.2524792,882.16603,-544.56138)"
-         clip-path="url(#clipPath9722)"
-         width="61.544361"
-         height="34.618698"
-         preserveAspectRatio="none"
-         id="image27120"
+         y="167.42963"
          x="-343.49402"
-         y="167.42963" />
+         id="image27120"
+         preserveAspectRatio="none"
+         height="34.618698"
+         width="61.544361"
+         clip-path="url(#clipPath9722)"
+         transform="matrix(2.5682137,0,0,3.2524792,882.16603,-544.56138)" />
     </pattern>
     <marker
        inkscape:isstock="true"
@@ -2105,12 +2105,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_raw_cut.png"
          xlink:href="src/set_raw_cut.png"
-         width="135.85045"
-         height="58.435669"
-         preserveAspectRatio="none"
-         id="image40401"
+         y="0"
          x="0"
-         y="0" />
+         id="image40401"
+         preserveAspectRatio="none"
+         height="58.435669"
+         width="135.85045" />
     </pattern>
     <marker
        inkscape:stockid="TriangleOutS"
@@ -2326,25 +2326,25 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/06_gluing_boards (1).jpg"
            xlink:href="src/06_gluing_boards (1).jpg"
-           y="15.688854"
-           x="-396.57602"
-           id="image23419"
-           preserveAspectRatio="none"
-           height="30.224211"
-           width="53.731937"
+           clip-path="url(#clipPath6638)"
            transform="matrix(0,-1.0309038,1.0309038,0,19.593008,-320.42321)"
-           clip-path="url(#clipPath6638)" />
+           width="53.731937"
+           height="30.224211"
+           preserveAspectRatio="none"
+           id="image23419"
+           x="-396.57602"
+           y="15.688854" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/05_groove_and_stick_for_spline.jpg"
            xlink:href="src/05_groove_and_stick_for_spline.jpg"
-           y="371.19971"
-           x="83.330795"
-           id="image23421"
-           preserveAspectRatio="none"
-           height="79.91964"
-           width="142.07938"
+           transform="matrix(0.70562559,0,0,0.66758955,-60.750657,-213.03269)"
            clip-path="url(#clipPath6643)"
-           transform="matrix(0.70562559,0,0,0.66758955,-60.750657,-213.03269)" />
+           width="142.07938"
+           height="79.91964"
+           preserveAspectRatio="none"
+           id="image23421"
+           x="83.330795"
+           y="371.19971" />
       </g>
     </pattern>
     <pattern
@@ -2372,12 +2372,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/09_grooves_for_border.jpg"
          xlink:href="src/09_grooves_for_border.jpg"
-         width="233.52505"
-         height="131.35786"
-         preserveAspectRatio="none"
-         id="image24155"
+         y="0"
          x="0"
-         y="0" />
+         id="image24155"
+         preserveAspectRatio="none"
+         height="131.35786"
+         width="233.52505" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2388,14 +2388,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/11_gluing_border_to_bord.jpg"
          xlink:href="src/11_gluing_border_to_bord.jpg"
-         transform="matrix(2.729755,0,0,2.729755,-436.30225,-1347.0457)"
-         clip-path="url(#clipPath7026)"
-         width="84.949158"
-         height="47.783901"
-         preserveAspectRatio="none"
-         id="image24162"
+         y="487.59122"
          x="159.83202"
-         y="487.59122" />
+         id="image24162"
+         preserveAspectRatio="none"
+         height="47.783901"
+         width="84.949158"
+         clip-path="url(#clipPath7026)"
+         transform="matrix(2.729755,0,0,2.729755,-436.30225,-1347.0457)" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2406,12 +2406,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/10_cutting_border_ frame (3).jpg"
          xlink:href="src/10_cutting_border_ frame (3).jpg"
-         width="231.27318"
-         height="130.09114"
-         preserveAspectRatio="none"
-         id="image24169"
+         y="0"
          x="0"
-         y="0" />
+         id="image24169"
+         preserveAspectRatio="none"
+         height="130.09114"
+         width="231.27318" />
     </pattern>
     <filter
        inkscape:collect="always"
@@ -2446,12 +2446,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/13_planning_with_router (3).jpg"
          xlink:href="src/13_planning_with_router (3).jpg"
-         width="209.47556"
-         height="117.83"
-         preserveAspectRatio="none"
-         id="image34407"
+         y="-2.8421709e-014"
          x="0"
-         y="-2.8421709e-014" />
+         id="image34407"
+         preserveAspectRatio="none"
+         height="117.83"
+         width="209.47556" />
     </pattern>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -2500,12 +2500,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (2).jpg"
          xlink:href="src/example_of_guillochage (2).jpg"
-         y="0"
-         x="0"
-         id="image34462"
-         preserveAspectRatio="none"
+         width="5008.6958"
          height="2817.3914"
-         width="5008.6958" />
+         preserveAspectRatio="none"
+         id="image34462"
+         x="0"
+         y="0" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2516,12 +2516,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (7).jpg"
          xlink:href="src/example_of_guillochage (7).jpg"
-         y="1.811884e-013"
-         x="0"
-         id="image34473"
-         preserveAspectRatio="none"
+         width="5008.6958"
          height="2817.3914"
-         width="5008.6958" />
+         preserveAspectRatio="none"
+         id="image34473"
+         x="0"
+         y="1.811884e-013" />
     </pattern>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -2642,14 +2642,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/12_rough_planning_of border.jpg"
          xlink:href="src/12_rough_planning_of border.jpg"
-         width="55.636108"
-         height="31.295313"
-         preserveAspectRatio="none"
-         id="image73117"
-         x="79.855064"
-         y="53.574326"
+         transform="matrix(3.7795276,0,0,3.7795276,-301.81442,-202.48564)"
          clip-path="url(#clipPath31995)"
-         transform="matrix(3.7795276,0,0,3.7795276,-301.81442,-202.48564)" />
+         y="53.574326"
+         x="79.855064"
+         id="image73117"
+         preserveAspectRatio="none"
+         height="31.295313"
+         width="55.636108" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2660,14 +2660,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/13_planning_with_router (3).jpg"
          xlink:href="src/13_planning_with_router (3).jpg"
-         width="55.42374"
-         height="31.175854"
-         preserveAspectRatio="none"
-         id="image73124"
-         x="140.12782"
-         y="64.496712"
+         transform="matrix(3.7795276,0,0,3.7795276,-541.58936,-243.7671)"
          clip-path="url(#clipPath34414)"
-         transform="matrix(3.7795276,0,0,3.7795276,-541.58936,-243.7671)" />
+         y="64.496712"
+         x="140.12782"
+         id="image73124"
+         preserveAspectRatio="none"
+         height="31.175854"
+         width="55.42374" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2678,13 +2678,13 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/14_groove_for_juice (2).jpg"
          xlink:href="src/14_groove_for_juice (2).jpg"
-         transform="rotate(90)"
-         width="159.76743"
-         height="135.53868"
-         preserveAspectRatio="none"
-         id="image73131"
+         y="-135.53868"
          x="6.5142492e-014"
-         y="-135.53868" />
+         id="image73131"
+         preserveAspectRatio="none"
+         height="135.53868"
+         width="159.76743"
+         transform="rotate(90)" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2695,12 +2695,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/fixing_repairing.JPG"
          xlink:href="src/fixing_repairing.JPG"
-         width="111.56667"
-         height="46.096413"
-         preserveAspectRatio="none"
-         id="image73138"
+         y="0"
          x="0"
-         y="0" />
+         id="image73138"
+         preserveAspectRatio="none"
+         height="46.096413"
+         width="111.56667" />
     </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
@@ -2714,36 +2714,36 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (1).jpg"
            xlink:href="src/example_of_guillochage (1).jpg"
-           y="254.2715"
-           x="263.89871"
-           id="image73145"
-           preserveAspectRatio="none"
-           height="234.39949"
-           width="416.71021"
+           transform="matrix(0.15395726,0,0,0.15395726,64.082291,140.13036)"
            clip-path="url(#clipPath7409)"
-           transform="matrix(0.15395726,0,0,0.15395726,64.082291,140.13036)" />
+           width="416.71021"
+           height="234.39949"
+           preserveAspectRatio="none"
+           id="image73145"
+           x="263.89871"
+           y="254.2715" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (2).jpg"
            xlink:href="src/example_of_guillochage (2).jpg"
-           transform="matrix(0.07981699,-0.03510578,0.04924439,0.05690065,112.83945,128.9606)"
-           clip-path="url(#clipPath34492)"
-           width="1325.2174"
-           height="745.43481"
-           preserveAspectRatio="none"
-           id="image73147"
+           y="814.26538"
            x="-1007.6458"
-           y="814.26538" />
+           id="image73147"
+           preserveAspectRatio="none"
+           height="745.43481"
+           width="1325.2174"
+           clip-path="url(#clipPath34492)"
+           transform="matrix(0.07981699,-0.03510578,0.04924439,0.05690065,112.83945,128.9606)" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (7).jpg"
            xlink:href="src/example_of_guillochage (7).jpg"
-           transform="matrix(0.0666132,0,0,0.0666132,79.685493,172.27445)"
-           clip-path="url(#clipPath34485)"
-           width="1325.2174"
-           height="745.43481"
-           preserveAspectRatio="none"
-           id="image73149"
+           y="-5.0736556"
            x="944.60272"
-           y="-5.0736556" />
+           id="image73149"
+           preserveAspectRatio="none"
+           height="745.43481"
+           width="1325.2174"
+           clip-path="url(#clipPath34485)"
+           transform="matrix(0.0666132,0,0,0.0666132,79.685493,172.27445)" />
       </g>
     </pattern>
     <pattern
@@ -3079,6 +3079,481 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="scale(0.2)" />
     </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7409-9">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.553;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00000c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.19947487;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect7411-6"
+         width="240.47209"
+         height="70.451538"
+         x="378.35669"
+         y="311.34442" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34492-9">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.0146122px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -443.53373,953.71798 629.31161,388.26402 -88.157739,142.8891 -648.097001,-399.854 87.27616,-141.46019 18.7854,11.58996 z"
+         id="path34494-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34485-7">
+      <rect
+         id="rect34487-8"
+         y="238.0116"
+         x="1195.9629"
+         height="161.89743"
+         width="516.07764"
+         style="fill:none;stroke:#69521f;stroke-width:0.29082328;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34414-0">
+      <rect
+         style="fill:none;stroke:#69521f;stroke-width:0.92556876;stroke-opacity:1"
+         width="47.413654"
+         height="31.21966"
+         x="143.29552"
+         y="64.474808"
+         id="rect34416-3" />
+    </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker41889-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path41887-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker42727-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path42725-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker44433-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path44431-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker53123-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path53121-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker54033-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path54031-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker54949-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path54947-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker66076-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path66074-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker67058-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path67056-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker68046-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path68044-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker50411-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path50409-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker51303-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path51301-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker52201-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path52199-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker62791-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path62789-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker63755-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path63753-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker64725-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path64723-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker69346-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path69344-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker70346-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path70344-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker71352-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path71350-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker59593-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path59591-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker60539-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path60537-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker61491-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path61489-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker56449-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path56447-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker57377-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path57375-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker58311-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path58309-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker46645-6"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path46643-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker47501-9"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path47499-92"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker48363-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path48361-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34425-2">
+      <rect
+         style="fill:none;stroke:#69521f;stroke-width:0.88313735;stroke-opacity:1"
+         width="57.702431"
+         height="25.212284"
+         x="81.086349"
+         y="218.97737"
+         id="rect34427-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath31995-0">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#69521f;stroke-width:2.51099992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker29583);marker-mid:url(#marker30349);marker-end:url(#marker31121);paint-order:fill markers stroke;filter:url(#filter31937);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect31997-3"
+         width="48.33556"
+         height="30.965256"
+         x="79.855064"
+         y="53.574326" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3087,9 +3562,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="-508.06291"
-     inkscape:cy="-1104.0871"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-2419.2776"
+     inkscape:cy="-884.81334"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3161,12 +3636,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_wood.jpg"
          xlink:href="src/raw_wood.jpg"
-         y="14.973784"
-         x="4.8871689"
-         id="image4949"
-         preserveAspectRatio="none"
+         width="36.935833"
          height="37.454437"
-         width="36.935833" />
+         preserveAspectRatio="none"
+         id="image4949"
+         x="4.8871689"
+         y="14.973784" />
       <path
          id="rect5675"
          d="M 4.8871689,14.973784 H 41.823002 V 52.428222 H 4.8871689 Z"
@@ -3221,12 +3696,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/square_section.png"
          xlink:href="src/square_section.png"
-         width="36.086952"
-         height="31.218077"
-         preserveAspectRatio="none"
-         id="image6603"
+         y="14.973738"
          x="5.7360497"
-         y="14.973738" />
+         id="image6603"
+         preserveAspectRatio="none"
+         height="31.218077"
+         width="36.086952" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -3256,12 +3731,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/plank_for_spline.png"
          xlink:href="src/plank_for_spline.png"
-         width="36.597786"
-         height="26.744534"
-         preserveAspectRatio="none"
-         id="image6581"
+         y="19.785555"
          x="4.8871689"
-         y="19.785555" />
+         id="image6581"
+         preserveAspectRatio="none"
+         height="26.744534"
+         width="36.597786" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -3291,12 +3766,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/plank_for_rod.png"
          xlink:href="src/plank_for_rod.png"
-         width="36.935833"
-         height="25.812771"
-         preserveAspectRatio="none"
-         id="image6592"
+         y="19.184084"
          x="4.8871689"
-         y="19.184084" />
+         id="image6592"
+         preserveAspectRatio="none"
+         height="25.812771"
+         width="36.935833" />
       <path
          id="path5851"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3471,12 +3946,12 @@
            id="flowPara5733-7-5">set carrelets</flowPara></flowRoot>      <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_planned.png"
          xlink:href="src/set_planned.png"
-         y="14.973784"
-         x="4.8871689"
-         id="image6153"
-         preserveAspectRatio="none"
+         width="36.223179"
          height="14.259804"
-         width="36.223179" />
+         preserveAspectRatio="none"
+         id="image6153"
+         x="4.8871689"
+         y="14.973784" />
     </g>
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ddc48b;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3494,12 +3969,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_planned.png"
          xlink:href="src/set_planned.png"
-         width="36.223179"
-         height="14.259804"
-         preserveAspectRatio="none"
-         id="image6296"
+         y="14.973784"
          x="4.8871689"
-         y="14.973784" />
+         id="image6296"
+         preserveAspectRatio="none"
+         height="14.259804"
+         width="36.223179" />
       <path
          id="path6286"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3515,12 +3990,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/row_raw.png"
          xlink:href="src/row_raw.png"
-         width="36.508224"
-         height="6.0234895"
-         preserveAspectRatio="none"
-         id="image6406"
+         y="14.973784"
          x="4.8871689"
-         y="14.973784" />
+         id="image6406"
+         preserveAspectRatio="none"
+         height="6.0234895"
+         width="36.508224" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -3552,12 +4027,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_row_groove.png"
            xlink:href="src/raw_row_groove.png"
-           y="14.973784"
-           x="4.8871689"
-           id="image6395"
-           preserveAspectRatio="none"
+           width="36.292103"
            height="5.8099203"
-           width="36.292103" />
+           preserveAspectRatio="none"
+           id="image6395"
+           x="4.8871689"
+           y="14.973784" />
         <path
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
@@ -3606,14 +4081,14 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/spline.png"
            xlink:href="src/spline.png"
-           transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)"
-           clip-path="url(#clipPath6718)"
-           y="121.63394"
-           x="3.2335229"
-           id="image6570"
-           preserveAspectRatio="none"
+           width="36.675114"
            height="6.4825268"
-           width="36.675114" />
+           preserveAspectRatio="none"
+           id="image6570"
+           x="3.2335229"
+           y="121.63394"
+           clip-path="url(#clipPath6718)"
+           transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)" />
         <path
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
@@ -3644,12 +4119,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/row_joined.jpg"
          xlink:href="src/row_joined.jpg"
-         y="14.973785"
-         x="4.8871689"
-         id="image6753"
-         preserveAspectRatio="none"
+         width="36.331161"
          height="26.949438"
-         width="36.331161" />
+         preserveAspectRatio="none"
+         id="image6753"
+         x="4.8871689"
+         y="14.973785" />
       <path
          id="path6340-9"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3687,12 +4162,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/fitted_rod.png"
          xlink:href="src/fitted_rod.png"
-         y="14.97383"
-         x="4.1155124"
-         id="image19336"
-         preserveAspectRatio="none"
+         width="36.52132"
          height="10.451041"
-         width="36.52132" />
+         preserveAspectRatio="none"
+         id="image19336"
+         x="4.1155124"
+         y="14.97383" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -3717,28 +4192,28 @@
     <image
        sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/12_rough_planning_of border.jpg"
        xlink:href="src/12_rough_planning_of border.jpg"
-       width="55.636108"
-       height="31.295313"
-       preserveAspectRatio="none"
-       id="image7017"
-       x="79.855064"
-       y="53.574326"
-       clip-path="url(#clipPath31995)"
-       transform="matrix(0.99305779,0,0,0.99305779,-30.40999,2.060817)"
+       inkscape:export-ydpi="151.02377"
        inkscape:export-xdpi="151.02377"
-       inkscape:export-ydpi="151.02377" />
+       transform="matrix(0.99305779,0,0,0.99305779,-30.40999,2.060817)"
+       clip-path="url(#clipPath31995)"
+       y="53.574326"
+       x="79.855064"
+       id="image7017"
+       preserveAspectRatio="none"
+       height="31.295313"
+       width="55.636108" />
     <image
        sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/14_groove_for_juice (2).jpg"
        xlink:href="src/14_groove_for_juice (2).jpg"
-       transform="rotate(90)"
-       width="41.978336"
-       height="35.61232"
-       preserveAspectRatio="none"
-       id="image7123"
-       x="121.51717"
-       y="-84.683617"
+       inkscape:export-ydpi="151.02377"
        inkscape:export-xdpi="151.02377"
-       inkscape:export-ydpi="151.02377" />
+       y="-84.683617"
+       x="121.51717"
+       id="image7123"
+       preserveAspectRatio="none"
+       height="35.61232"
+       width="41.978336"
+       transform="rotate(90)" />
     <g
        id="g6352-7-9-3"
        transform="matrix(1.4386638,0,0,1.4386638,12.858461,238.8198)"
@@ -3747,12 +4222,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/several_boards_combo (15).JPG"
          xlink:href="src/several_boards_combo (15).JPG"
-         y="15.193767"
-         x="4.8871689"
-         id="image7423"
-         preserveAspectRatio="none"
+         width="36.940369"
          height="24.626915"
-         width="36.940369" />
+         preserveAspectRatio="none"
+         id="image7423"
+         x="4.8871689"
+         y="15.193767" />
       <path
          id="path6340-9-8-2"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.03539598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3783,7 +4258,7 @@
              height="3214"
              x="-3064"
              y="-169.48032" /></flowRegion><flowPara
-           id="flowPara8654"></flowPara></flowRoot>    </g>
+           id="flowPara8654" /></flowRoot>    </g>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.553;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00000c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.32037118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect7555"
@@ -3886,23 +4361,23 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/01_trimming (2).jpg"
            xlink:href="src/01_trimming (2).jpg"
-           transform="rotate(90)"
-           width="46.031208"
-           height="25.892551"
-           preserveAspectRatio="none"
-           id="image6003"
+           y="319.9252"
            x="42.646717"
-           y="319.9252" />
+           id="image6003"
+           preserveAspectRatio="none"
+           height="25.892551"
+           width="46.031208"
+           transform="rotate(90)" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/02_straightening_planning (2).jpg"
            xlink:href="src/02_straightening_planning (2).jpg"
-           transform="rotate(90)"
-           width="46.031208"
-           height="25.892551"
-           preserveAspectRatio="none"
-           id="image6014"
+           y="294.03268"
            x="42.646717"
-           y="294.03268" />
+           id="image6014"
+           preserveAspectRatio="none"
+           height="25.892551"
+           width="46.031208"
+           transform="rotate(90)" />
       </g>
       <rect
          id="rect27015"
@@ -3920,14 +4395,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/03_gluing (1).jpg"
          xlink:href="src/03_gluing (1).jpg"
-         y="167.42963"
-         x="-343.49402"
-         id="image6061"
-         preserveAspectRatio="none"
-         height="34.618698"
-         width="61.544361"
+         transform="matrix(0.67950653,0,0,0.86055179,-110.9697,21.052904)"
          clip-path="url(#clipPath9722)"
-         transform="matrix(0.67950653,0,0,0.86055179,-110.9697,21.052904)" />
+         width="61.544361"
+         height="34.618698"
+         preserveAspectRatio="none"
+         id="image6061"
+         x="-343.49402"
+         y="167.42963" />
       <rect
          id="rect27127"
          y="165.13477"
@@ -4052,12 +4527,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_raw_cut.png"
          xlink:href="src/set_raw_cut.png"
-         y="194.78755"
-         x="-344.25928"
-         id="image6283"
-         preserveAspectRatio="none"
+         width="35.943764"
          height="15.461104"
-         width="35.943764" />
+         preserveAspectRatio="none"
+         id="image6283"
+         x="-344.25928"
+         y="194.78755" />
       <rect
          id="rect40406"
          y="194.78755"
@@ -4115,12 +4590,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_row_groove.png"
          xlink:href="src/raw_row_groove.png"
-         y="14.973784"
-         x="4.8871689"
-         id="image6395-0"
-         preserveAspectRatio="none"
+         width="36.292103"
          height="5.8099203"
-         width="36.292103" />
+         preserveAspectRatio="none"
+         id="image6395-0"
+         x="4.8871689"
+         y="14.973784" />
       <path
          id="path6340-7"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:0.82573122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4151,12 +4626,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/rod.png"
          xlink:href="src/rod.png"
-         width="36.164177"
-         height="10.849255"
-         preserveAspectRatio="none"
-         id="image6849-2"
+         y="19.860832"
          x="4.5380945"
-         y="19.860832" />
+         id="image6849-2"
+         preserveAspectRatio="none"
+         height="10.849255"
+         width="36.164177" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -4302,12 +4777,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/rod.png"
            xlink:href="src/rod.png"
-           width="36.164177"
-           height="10.849255"
-           preserveAspectRatio="none"
-           id="image6849"
+           y="19.589544"
            x="4.4675541"
-           y="19.589544" />
+           id="image6849"
+           preserveAspectRatio="none"
+           height="10.849255"
+           width="36.164177" />
         <path
            id="path6852"
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.18945861;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4357,14 +4832,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/spline.png"
          xlink:href="src/spline.png"
-         transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)"
-         clip-path="url(#clipPath6718-2)"
-         y="121.63394"
-         x="3.2335229"
-         id="image6570-8"
-         preserveAspectRatio="none"
+         width="36.675114"
          height="6.4825268"
-         width="36.675114" />
+         preserveAspectRatio="none"
+         id="image6570-8"
+         x="3.2335229"
+         y="121.63394"
+         clip-path="url(#clipPath6718-2)"
+         transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)" />
       <path
          id="path6520-0"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:0.93407053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4601,25 +5076,25 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/06_gluing_boards (1).jpg"
            xlink:href="src/06_gluing_boards (1).jpg"
-           clip-path="url(#clipPath6638)"
-           transform="matrix(0,-1.0309038,1.0309038,0,19.593008,-320.42321)"
-           width="53.731937"
-           height="30.224211"
-           preserveAspectRatio="none"
-           id="image6614"
+           y="15.688854"
            x="-396.57602"
-           y="15.688854" />
+           id="image6614"
+           preserveAspectRatio="none"
+           height="30.224211"
+           width="53.731937"
+           transform="matrix(0,-1.0309038,1.0309038,0,19.593008,-320.42321)"
+           clip-path="url(#clipPath6638)" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/05_groove_and_stick_for_spline.jpg"
            xlink:href="src/05_groove_and_stick_for_spline.jpg"
-           transform="matrix(0.70562559,0,0,0.66758955,-60.750657,-213.03269)"
-           clip-path="url(#clipPath6643)"
-           width="142.07938"
-           height="79.91964"
-           preserveAspectRatio="none"
-           id="image6625"
+           y="371.19971"
            x="83.330795"
-           y="371.19971" />
+           id="image6625"
+           preserveAspectRatio="none"
+           height="79.91964"
+           width="142.07938"
+           clip-path="url(#clipPath6643)"
+           transform="matrix(0.70562559,0,0,0.66758955,-60.750657,-213.03269)" />
       </g>
       <rect
          id="rect23430"
@@ -4659,12 +5134,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/09_grooves_for_border.jpg"
          xlink:href="src/09_grooves_for_border.jpg"
-         y="138.84793"
-         x="36.655151"
-         id="image6838"
-         preserveAspectRatio="none"
+         width="61.786839"
          height="34.7551"
-         width="61.786839" />
+         preserveAspectRatio="none"
+         id="image6838"
+         x="36.655151"
+         y="138.84793" />
       <rect
          id="rect24160"
          y="138.84793"
@@ -4681,14 +5156,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/11_gluing_border_to_bord.jpg"
          xlink:href="src/11_gluing_border_to_bord.jpg"
-         y="487.59122"
-         x="159.83202"
-         id="image6978"
-         preserveAspectRatio="none"
-         height="47.783901"
-         width="84.949158"
+         transform="matrix(0.72224768,0,0,0.72224768,-78.49482,-129.18703)"
          clip-path="url(#clipPath7026)"
-         transform="matrix(0.72224768,0,0,0.72224768,-78.49482,-129.18703)" />
+         width="84.949158"
+         height="47.783901"
+         preserveAspectRatio="none"
+         id="image6978"
+         x="159.83202"
+         y="487.59122" />
       <rect
          id="rect24167"
          y="227.21881"
@@ -4705,12 +5180,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/10_cutting_border_ frame (3).jpg"
          xlink:href="src/10_cutting_border_ frame (3).jpg"
-         y="138.89445"
-         x="172.12181"
-         id="image6941"
-         preserveAspectRatio="none"
+         width="61.191029"
          height="34.419949"
-         width="61.191029" />
+         preserveAspectRatio="none"
+         id="image6941"
+         x="172.12181"
+         y="138.89445" />
       <rect
          id="rect24174"
          y="138.89445"
@@ -4827,16 +5302,16 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/board_naked.jpg"
          xlink:href="src/board_naked.jpg"
-         width="36.302284"
-         height="21.605892"
-         preserveAspectRatio="none"
-         id="image7134"
-         x="5.0638514"
-         y="14.992396"
-         inkscape:transform-center-x="-4.1875264"
-         inkscape:transform-center-y="20.501435"
+         inkscape:export-ydpi="146"
          inkscape:export-xdpi="146"
-         inkscape:export-ydpi="146" />
+         inkscape:transform-center-y="20.501435"
+         inkscape:transform-center-x="-4.1875264"
+         y="14.992396"
+         x="5.0638514"
+         id="image7134"
+         preserveAspectRatio="none"
+         height="21.605892"
+         width="36.302284" />
       <path
          id="path6340-9-8"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.0696466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4870,12 +5345,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/board_naked.png"
          xlink:href="src/board_naked.png"
-         width="34.877438"
-         height="20.697071"
-         preserveAspectRatio="none"
-         id="image29462"
+         y="15.586974"
          x="5.9204788"
-         y="15.586974" />
+         id="image29462"
+         preserveAspectRatio="none"
+         height="20.697071"
+         width="34.877438" />
       <path
          id="path6340-9-8-8"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.0696466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4904,14 +5379,14 @@
     <image
        sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/fixing_repairing.JPG"
        xlink:href="src/fixing_repairing.JPG"
-       width="29.313755"
-       height="12.111673"
-       preserveAspectRatio="none"
-       id="image29502"
-       x="49.066235"
-       y="172.86763"
+       inkscape:export-ydpi="151.02377"
        inkscape:export-xdpi="151.02377"
-       inkscape:export-ydpi="151.02377" />
+       y="172.86763"
+       x="49.066235"
+       id="image29502"
+       preserveAspectRatio="none"
+       height="12.111673"
+       width="29.313755" />
     <image
        sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\20_oiling (1).jpg"
        y="215.10693"
@@ -5221,14 +5696,14 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/13_planning_with_router (3).jpg"
            xlink:href="src/13_planning_with_router (3).jpg"
-           width="55.42374"
-           height="31.175854"
-           preserveAspectRatio="none"
-           id="image7062"
-           x="140.12782"
-           y="64.496712"
+           transform="translate(-31.750001,10.138668)"
            clip-path="url(#clipPath34414)"
-           transform="translate(-31.750001,10.138668)" />
+           y="64.496712"
+           x="140.12782"
+           id="image7062"
+           preserveAspectRatio="none"
+           height="31.175854"
+           width="55.42374" />
         <rect
            style="fill:none;stroke:#69521f;stroke-opacity:1"
            width="47.413654"
@@ -5267,36 +5742,36 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (1).jpg"
            xlink:href="src/example_of_guillochage (1).jpg"
-           transform="matrix(0.15395726,0,0,0.15395726,64.082291,140.13036)"
-           clip-path="url(#clipPath7409)"
-           width="416.71021"
-           height="234.39949"
-           preserveAspectRatio="none"
-           id="image7394"
+           y="254.2715"
            x="263.89871"
-           y="254.2715" />
+           id="image7394"
+           preserveAspectRatio="none"
+           height="234.39949"
+           width="416.71021"
+           clip-path="url(#clipPath7409)"
+           transform="matrix(0.15395726,0,0,0.15395726,64.082291,140.13036)" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (2).jpg"
            xlink:href="src/example_of_guillochage (2).jpg"
-           y="814.26538"
-           x="-1007.6458"
-           id="image34437"
-           preserveAspectRatio="none"
-           height="745.43481"
-           width="1325.2174"
+           transform="matrix(0.07981699,-0.03510578,0.04924439,0.05690065,112.83945,128.9606)"
            clip-path="url(#clipPath34492)"
-           transform="matrix(0.07981699,-0.03510578,0.04924439,0.05690065,112.83945,128.9606)" />
+           width="1325.2174"
+           height="745.43481"
+           preserveAspectRatio="none"
+           id="image34437"
+           x="-1007.6458"
+           y="814.26538" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (7).jpg"
            xlink:href="src/example_of_guillochage (7).jpg"
-           y="-5.0736556"
-           x="944.60272"
-           id="image34448"
-           preserveAspectRatio="none"
-           height="745.43481"
-           width="1325.2174"
+           transform="matrix(0.0666132,0,0,0.0666132,79.685493,172.27445)"
            clip-path="url(#clipPath34485)"
-           transform="matrix(0.0666132,0,0,0.0666132,79.685493,172.27445)" />
+           width="1325.2174"
+           height="745.43481"
+           preserveAspectRatio="none"
+           id="image34448"
+           x="944.60272"
+           y="-5.0736556" />
       </g>
       <rect
          id="rect73159"
@@ -5334,17 +5809,17 @@
     <g
        id="g5742-9"
        transform="matrix(0.92800712,0,0,0.92800712,-882.96142,510.30102)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_wood.jpg"
          xlink:href="src/raw_wood.jpg"
-         width="36.935833"
-         height="37.454437"
-         preserveAspectRatio="none"
-         id="image4949-0"
+         y="14.973784"
          x="4.8871689"
-         y="14.973784" />
+         id="image4949-0"
+         preserveAspectRatio="none"
+         height="37.454437"
+         width="36.935833" />
       <path
          id="rect5675-2"
          d="M 4.8871689,14.973784 H 41.823002 V 52.428222 H 4.8871689 Z"
@@ -5376,8 +5851,8 @@
        id="flowRoot5899-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.23277699,0,0,0.23277699,-756.18965,501.96095)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095"><flowRegion
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045"><flowRegion
          id="flowRegion5893-2"
          style="line-height:16px;text-align:start;text-anchor:start"><rect
            id="rect5891-1"
@@ -5389,7 +5864,9 @@
          id="flowPara5897-8"
          style="font-style:italic;font-size:21.33333397px;line-height:16px;text-align:start;text-anchor:start">robinia</flowPara></flowRoot>    <g
        id="g10963"
-       transform="rotate(-45,-699.30502,483.08412)">
+       transform="rotate(-45,-699.30502,483.08412)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect14996-3"
          d="m -860.8941,447.69887 h 33.30181 v 5.60739 h -33.30181 z"
@@ -5414,7 +5891,9 @@
            id="flowPara6023-0">délignage</flowPara></flowRoot>    </g>
     <g
        id="g10970"
-       transform="rotate(-45,-699.45163,467.66492)">
+       transform="rotate(-45,-699.45163,467.66492)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect16294-7"
          d="m -860.95849,454.23738 h 33.3662 v 5.60739 h -33.3662 z"
@@ -5439,7 +5918,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">dégo</flowPara></flowRoot>    </g>
     <g
        id="g10984"
-       transform="rotate(-45,-720.20787,445.44327)">
+       transform="rotate(-45,-720.20787,445.44327)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect18441-8"
          d="m -860.95849,484.49838 h 33.3662 v 5.6074 h -33.3662 z"
@@ -5464,7 +5945,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">mise aux dim</flowPara></flowRoot>    </g>
     <g
        id="g10977"
-       transform="rotate(-45,-719.7617,460.97391)">
+       transform="rotate(-45,-719.7617,460.97391)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect18443-7"
          d="m -860.8941,477.95988 h 33.30181 v 5.6074 h -33.30181 z"
@@ -5489,7 +5972,9 @@
            id="flowPara6041-5">rabo</flowPara></flowRoot>    </g>
     <g
        id="g11372"
-       transform="rotate(-45,-728.68892,394.84829)">
+       transform="rotate(-45,-728.68892,394.84829)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect22952-0"
          d="m -860.95849,552.93485 h 33.3662 v 5.6074 h -33.3662 z"
@@ -5514,7 +5999,9 @@
            id="flowPara6041-9-9">collage</flowPara></flowRoot>    </g>
     <g
        id="g11379"
-       transform="rotate(-45,-743.36901,386.89671)">
+       transform="rotate(-45,-743.36901,386.89671)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect24504-8"
          d="m -860.95849,570.16024 h 33.3662 v 5.60739 h -33.3662 z"
@@ -5539,7 +6026,9 @@
            style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">dego</flowPara></flowRoot>    </g>
     <g
        id="g11386"
-       transform="rotate(-45,-744.61619,376.6515)">
+       transform="rotate(-45,-744.61619,376.6515)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect25676-3"
          d="m -860.95849,576.21238 h 33.3662 v 5.60739 h -33.3662 z"
@@ -5565,31 +6054,31 @@
     <g
        id="g40438-4"
        transform="matrix(0.87978705,0,0,0.87978705,-521.34964,454.06103)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <g
          transform="matrix(1.1189897,0,0,1.1189897,41.771974,-7.8131403)"
          id="g27002-4">
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/01_trimming (2).jpg"
            xlink:href="src/01_trimming (2).jpg"
-           y="319.9252"
-           x="42.646717"
-           id="image6003-8"
-           preserveAspectRatio="none"
-           height="25.892551"
+           transform="rotate(90)"
            width="46.031208"
-           transform="rotate(90)" />
+           height="25.892551"
+           preserveAspectRatio="none"
+           id="image6003-8"
+           x="42.646717"
+           y="319.9252" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/02_straightening_planning (2).jpg"
            xlink:href="src/02_straightening_planning (2).jpg"
-           y="294.03268"
-           x="42.646717"
-           id="image6014-0"
-           preserveAspectRatio="none"
-           height="25.892551"
+           transform="rotate(90)"
            width="46.031208"
-           transform="rotate(90)" />
+           height="25.892551"
+           preserveAspectRatio="none"
+           id="image6014-0"
+           x="42.646717"
+           y="294.03268" />
       </g>
       <rect
          id="rect27015-1"
@@ -5602,17 +6091,17 @@
     <g
        id="g5863-8-3"
        transform="matrix(0.87978705,0,0,0.87978705,-739.22289,428.94204)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/plank_for_rod.png"
          xlink:href="src/plank_for_rod.png"
-         y="19.184084"
-         x="4.8871689"
-         id="image6592-8-6"
-         preserveAspectRatio="none"
+         width="36.935833"
          height="25.812771"
-         width="36.935833" />
+         preserveAspectRatio="none"
+         id="image6592-8-6"
+         x="4.8871689"
+         y="19.184084" />
       <path
          id="path5851-7-4"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5637,17 +6126,17 @@
     <g
        transform="matrix(0.87978705,0,0,0.87978705,-741.46796,486.79475)"
        id="g5742-0-3-8-9"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/plank_for_spline.png"
          xlink:href="src/plank_for_spline.png"
-         y="19.785555"
-         x="4.8871689"
-         id="image6581-8-9"
-         preserveAspectRatio="none"
+         width="36.597786"
          height="26.744534"
-         width="36.597786" />
+         preserveAspectRatio="none"
+         id="image6581-8-9"
+         x="4.8871689"
+         y="19.785555" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -5672,17 +6161,17 @@
     <g
        transform="matrix(0.87978705,0,0,0.87978705,-741.84214,548.23626)"
        id="g5742-0-01-7"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/square_section.png"
          xlink:href="src/square_section.png"
-         y="14.973738"
-         x="5.7360497"
-         id="image6603-7-3"
-         preserveAspectRatio="none"
+         width="36.086952"
          height="31.218077"
-         width="36.086952" />
+         preserveAspectRatio="none"
+         id="image6603-7-3"
+         x="5.7360497"
+         y="14.973738" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -5708,26 +6197,32 @@
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ddc48b;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -842.96249,545.44375 h 89.42917 v 29.10416 h 15.34583"
        id="path11103"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#bba675;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -753.53332,545.44375 v -29.89792 h 15.34583"
        id="path11119"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#a9966a;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -753.53332,514.48749 v -56.35624 h 18.78542"
        id="path11140"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <flowRoot
        transform="matrix(0.23277699,0,0,0.23277699,-756.9072,444.28148)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5909-3"
        xml:space="preserve"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095"><flowRegion
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045"><flowRegion
          style="line-height:16px;text-align:center;text-anchor:middle"
          id="flowRegion5905-5"><rect
            style="line-height:16px;text-align:center;text-anchor:middle"
@@ -5742,8 +6237,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5727-1-1-2-9"
        xml:space="preserve"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095"><flowRegion
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045"><flowRegion
          style="line-height:16px;text-align:center;text-anchor:middle"
          id="flowRegion5729-6-9-4-5"><rect
            style="line-height:16px;text-align:center;text-anchor:middle"
@@ -5758,19 +6253,19 @@
          id="flowPara5889-7-8">tectona</flowPara></flowRoot>    <g
        id="g40430-0-0"
        transform="matrix(0.87978705,0,0,0.87978705,-393.70898,399.82726)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/03_gluing (1).jpg"
          xlink:href="src/03_gluing (1).jpg"
-         transform="matrix(0.67950653,0,0,0.86055179,-110.9697,21.052904)"
-         clip-path="url(#clipPath9722-2-7)"
-         width="61.544361"
-         height="34.618698"
-         preserveAspectRatio="none"
-         id="image6061-2-6"
+         y="167.42963"
          x="-343.49402"
-         y="167.42963" />
+         id="image6061-2-6"
+         preserveAspectRatio="none"
+         height="34.618698"
+         width="61.544361"
+         clip-path="url(#clipPath9722-2-7)"
+         transform="matrix(0.67950653,0,0,0.86055179,-110.9697,21.052904)" />
       <rect
          id="rect27127-9-6"
          y="165.13477"
@@ -5781,7 +6276,9 @@
     </g>
     <g
        transform="translate(191.08835,-21.348247)"
-       id="g11274-8">
+       id="g11274-8"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <g
          inkscape:export-ydpi="146.04095"
          inkscape:export-xdpi="146.04095"
@@ -5810,12 +6307,12 @@
              style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle">set carrelets</flowPara></flowRoot>        <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_planned.png"
            xlink:href="src/set_planned.png"
-           y="14.973784"
-           x="4.8871689"
-           id="image6153-6-5"
-           preserveAspectRatio="none"
+           width="36.223179"
            height="14.259804"
-           width="36.223179" />
+           preserveAspectRatio="none"
+           id="image6153-6-5"
+           x="4.8871689"
+           y="14.973784" />
       </g>
       <g
          inkscape:export-ydpi="146.04095"
@@ -5825,12 +6322,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_planned.png"
            xlink:href="src/set_planned.png"
-           width="36.223179"
-           height="14.259804"
-           preserveAspectRatio="none"
-           id="image6296-2-7"
+           y="14.973784"
            x="4.8871689"
-           y="14.973784" />
+           id="image6296-2-7"
+           preserveAspectRatio="none"
+           height="14.259804"
+           width="36.223179" />
         <path
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
@@ -5842,17 +6339,17 @@
     <g
        id="g40426-0-9"
        transform="matrix(1.1877439,0,0,1.1877439,-221.63674,314.40603)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/set_raw_cut.png"
          xlink:href="src/set_raw_cut.png"
-         width="35.943764"
-         height="15.461104"
-         preserveAspectRatio="none"
-         id="image6283-6-2"
+         y="194.78755"
          x="-344.25928"
-         y="194.78755" />
+         id="image6283-6-2"
+         preserveAspectRatio="none"
+         height="15.461104"
+         width="35.943764" />
       <rect
          id="rect40406-2-5"
          y="194.78755"
@@ -5863,7 +6360,9 @@
     </g>
     <g
        id="g11365"
-       transform="rotate(-45,-397.60984,546.37059)">
+       transform="rotate(-45,-397.60984,546.37059)"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect40485-0-5"
          d="m -597.43171,422.24578 h 33.3662 v 5.6074 h -33.3662 z"
@@ -5889,17 +6388,17 @@
     <g
        transform="matrix(0.87978705,0,0,0.87978705,-603.4159,561.81844)"
        id="g6312-0-8"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/row_raw.png"
          xlink:href="src/row_raw.png"
-         y="14.973784"
-         x="4.8871689"
-         id="image6406-6-9"
-         preserveAspectRatio="none"
+         width="36.508224"
          height="6.0234895"
-         width="36.508224" />
+         preserveAspectRatio="none"
+         id="image6406-6-9"
+         x="4.8871689"
+         y="14.973784" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -5925,14 +6424,16 @@
        inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10824952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m -581.56511,600.02878 23.59347,-23.59346 3.96502,3.96502 -23.59346,23.59347 z"
-       id="rect47574-1-0" />
+       id="rect47574-1-0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6043-3-0-3-3-6-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0.16459819,-0.16459819,0.16459819,0.16459819,-589.21788,596.96989)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095"><flowRegion
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045"><flowRegion
          id="flowRegion6039-8-2-8-3-6-2"
          style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><rect
            id="rect6037-3-4-2-0-1-2"
@@ -5955,12 +6456,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_row_groove.png"
            xlink:href="src/raw_row_groove.png"
-           width="36.292103"
-           height="5.8099203"
-           preserveAspectRatio="none"
-           id="image6395-4-2-3"
+           y="14.973784"
            x="4.8871689"
-           y="14.973784" />
+           id="image6395-4-2-3"
+           preserveAspectRatio="none"
+           height="5.8099203"
+           width="36.292103" />
         <path
            id="path6340-5-4-8"
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:0.82573122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5996,14 +6497,14 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/spline.png"
            xlink:href="src/spline.png"
-           width="36.675114"
-           height="6.4825268"
-           preserveAspectRatio="none"
-           id="image6570-87-8-2"
-           x="3.2335229"
-           y="121.63394"
+           transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)"
            clip-path="url(#clipPath6718-7-9-8)"
-           transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)" />
+           y="121.63394"
+           x="3.2335229"
+           id="image6570-87-8-2"
+           preserveAspectRatio="none"
+           height="6.4825268"
+           width="36.675114" />
         <path
            id="path6520-00-3-6"
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:0.93407053;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6039,12 +6540,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/rod.png"
            xlink:href="src/rod.png"
-           y="19.589544"
-           x="4.4675541"
-           id="image6849-0-8-2"
-           preserveAspectRatio="none"
+           width="36.164177"
            height="10.849255"
-           width="36.164177" />
+           preserveAspectRatio="none"
+           id="image6849-0-8-2"
+           x="4.4675541"
+           y="19.589544" />
         <path
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
@@ -6077,25 +6578,25 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/06_gluing_boards (1).jpg"
            xlink:href="src/06_gluing_boards (1).jpg"
-           clip-path="url(#clipPath6638-6-5)"
-           transform="matrix(0,-1.0309038,1.0309038,0,19.593008,-320.42321)"
-           width="53.731937"
-           height="30.224211"
-           preserveAspectRatio="none"
-           id="image6614-2-7"
+           y="15.688854"
            x="-396.57602"
-           y="15.688854" />
+           id="image6614-2-7"
+           preserveAspectRatio="none"
+           height="30.224211"
+           width="53.731937"
+           transform="matrix(0,-1.0309038,1.0309038,0,19.593008,-320.42321)"
+           clip-path="url(#clipPath6638-6-5)" />
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/05_groove_and_stick_for_spline.jpg"
            xlink:href="src/05_groove_and_stick_for_spline.jpg"
-           transform="matrix(0.70562559,0,0,0.66758955,-60.750657,-213.03269)"
-           clip-path="url(#clipPath6643-7-6)"
-           width="142.07938"
-           height="79.91964"
-           preserveAspectRatio="none"
-           id="image6625-2-1"
+           y="371.19971"
            x="83.330795"
-           y="371.19971" />
+           id="image6625-2-1"
+           preserveAspectRatio="none"
+           height="79.91964"
+           width="142.07938"
+           clip-path="url(#clipPath6643-7-6)"
+           transform="matrix(0.70562559,0,0,0.66758955,-60.750657,-213.03269)" />
       </g>
       <rect
          style="fill:none;fill-opacity:1;stroke:#a78331;stroke-opacity:1"
@@ -6113,12 +6614,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/09_grooves_for_border.jpg"
          xlink:href="src/09_grooves_for_border.jpg"
-         y="138.84793"
-         x="36.655151"
-         id="image6838-9-1"
-         preserveAspectRatio="none"
+         width="61.786839"
          height="34.7551"
-         width="61.786839" />
+         preserveAspectRatio="none"
+         id="image6838-9-1"
+         x="36.655151"
+         y="138.84793" />
       <rect
          style="fill:none;stroke:#a78331;stroke-opacity:1"
          width="61.786839"
@@ -6135,12 +6636,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/row_joined.jpg"
          xlink:href="src/row_joined.jpg"
-         y="14.973785"
-         x="4.8871689"
-         id="image6753-1-8"
-         preserveAspectRatio="none"
+         width="36.331161"
          height="26.949438"
-         width="36.331161" />
+         preserveAspectRatio="none"
+         id="image6753-1-8"
+         x="4.8871689"
+         y="14.973785" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
@@ -6170,14 +6671,14 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/11_gluing_border_to_bord.jpg"
          xlink:href="src/11_gluing_border_to_bord.jpg"
-         y="487.59122"
-         x="159.83202"
-         id="image6978-9-8"
-         preserveAspectRatio="none"
-         height="47.783901"
-         width="84.949158"
+         transform="matrix(0.72224768,0,0,0.72224768,-78.49482,-129.18703)"
          clip-path="url(#clipPath7026-8-7)"
-         transform="matrix(0.72224768,0,0,0.72224768,-78.49482,-129.18703)" />
+         width="84.949158"
+         height="47.783901"
+         preserveAspectRatio="none"
+         id="image6978-9-8"
+         x="159.83202"
+         y="487.59122" />
       <rect
          style="fill:none;stroke:#69521f;stroke-opacity:1"
          width="61.354328"
@@ -6194,16 +6695,16 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/board_naked.jpg"
          xlink:href="src/board_naked.jpg"
-         width="36.302284"
-         height="21.605892"
-         preserveAspectRatio="none"
-         id="image7134-7-6"
-         x="5.0638514"
-         y="14.992396"
-         inkscape:transform-center-x="-4.1875264"
-         inkscape:transform-center-y="20.501435"
+         inkscape:export-ydpi="146"
          inkscape:export-xdpi="146"
-         inkscape:export-ydpi="146" />
+         inkscape:transform-center-y="20.501435"
+         inkscape:transform-center-x="-4.1875264"
+         y="14.992396"
+         x="5.0638514"
+         id="image7134-7-6"
+         preserveAspectRatio="none"
+         height="21.605892"
+         width="36.302284" />
       <path
          inkscape:export-ydpi="146"
          inkscape:export-xdpi="146"
@@ -6379,7 +6880,9 @@
            id="flowPara6118-9-3-9-1-7-0-7-4">defonceuse</flowPara></flowRoot>    </g>
     <g
        transform="translate(224.43095,302.37671)"
-       id="g10220-3-3">
+       id="g10220-3-3"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <g
          inkscape:export-ydpi="146.04095"
          inkscape:export-xdpi="146.04095"
@@ -6388,12 +6891,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/raw_row_groove.png"
            xlink:href="src/raw_row_groove.png"
-           width="36.292103"
-           height="5.8099203"
-           preserveAspectRatio="none"
-           id="image6395-4-2"
+           y="14.973784"
            x="4.8871689"
-           y="14.973784" />
+           id="image6395-4-2"
+           preserveAspectRatio="none"
+           height="5.8099203"
+           width="36.292103" />
         <path
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
@@ -6420,22 +6923,28 @@
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ddc48b;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -705.64374,574.28333 h 52.38749"
        id="path11545"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ddc48b;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -620.44791,574.28333 h 21.16666"
        id="path11541"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ddc48b;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -567.00208,574.28333 h 15.875"
        id="path11537"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <g
        id="g40442-0-0"
        transform="matrix(0.87978705,0,0,0.87978705,-406.88489,318.03513)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          clip-path="url(#clipPath6546-7-0)"
          transform="matrix(0,0.66749379,-0.66749379,0,-340.25634,70.240897)"
@@ -6458,8 +6967,8 @@
     <g
        id="g40448-8-2"
        transform="matrix(0.87978705,0,0,0.87978705,-376.47902,301.27537)"
-       inkscape:export-xdpi="146.04095"
-       inkscape:export-ydpi="146.04095">
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <image
          transform="matrix(0.67630058,0,0,0.52379462,-357.91924,85.423258)"
          clip-path="url(#clipPath6459-5-6)"
@@ -6481,7 +6990,9 @@
     </g>
     <g
        transform="translate(140.83307,286.33084)"
-       id="g9371-5-7">
+       id="g9371-5-7"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <g
          inkscape:export-ydpi="146.04095"
          inkscape:export-xdpi="146.04095"
@@ -6490,14 +7001,14 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/spline.png"
            xlink:href="src/spline.png"
-           width="36.675114"
-           height="6.4825268"
-           preserveAspectRatio="none"
-           id="image6570-87-8"
-           x="3.2335229"
-           y="121.63394"
+           transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)"
            clip-path="url(#clipPath6718-7-9)"
-           transform="matrix(1.5903935,0,0,1.3328535,-1.9090509,-40.486278)" />
+           y="121.63394"
+           x="3.2335229"
+           id="image6570-87-8"
+           preserveAspectRatio="none"
+           height="6.4825268"
+           width="36.675114" />
         <path
            sodipodi:nodetypes="ccccccccc"
            inkscape:connector-curvature="0"
@@ -6522,7 +7033,9 @@
     </g>
     <g
        transform="translate(63.798314,266.39411)"
-       id="g9362-1-1">
+       id="g9362-1-1"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <g
          inkscape:export-ydpi="146.04095"
          inkscape:export-xdpi="146.04095"
@@ -6531,12 +7044,12 @@
         <image
            sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/rod.png"
            xlink:href="src/rod.png"
-           y="19.589544"
-           x="4.4675541"
-           id="image6849-0-8"
-           preserveAspectRatio="none"
+           width="36.164177"
            height="10.849255"
-           width="36.164177" />
+           preserveAspectRatio="none"
+           id="image6849-0-8"
+           x="4.4675541"
+           y="19.589544" />
         <path
            id="path6852-2-3"
            style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.18945861;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6564,16 +7077,22 @@
        d="m -701.67499,458.66041 h 151.87083"
        id="path11781"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#bba675;stroke-width:2.63936114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -703.79165,515.81041 h 153.45833"
        id="path11783"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045" />
     <g
        transform="rotate(-45,-742.47815,371.75777)"
-       id="g11576-0">
+       id="g11576-0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect22952-1-4-4"
          d="m -777.53802,567.62696 h 29.49484 v 5.6074 h -29.49484 z"
@@ -6598,7 +7117,9 @@
            id="flowPara6041-9-7-3-2">sciage</flowPara></flowRoot>    </g>
     <g
        transform="rotate(-45,-757.257,350.08582)"
-       id="g11583-6">
+       id="g11583-6"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect24504-1-3-0"
          d="m -777.53802,591.83562 h 29.49484 v 5.6074 h -29.49484 z"
@@ -6623,7 +7144,9 @@
            id="flowPara6041-9-7-0-0-5">rabot (main)</flowPara></flowRoot>    </g>
     <g
        transform="rotate(-45,-789.62262,489.36744)"
-       id="g11590-0">
+       id="g11590-0"
+       inkscape:export-xdpi="102.56045"
+       inkscape:export-ydpi="102.56045">
       <path
          id="rect22952-1-9-5-6"
          d="m -700.63622,559.8109 h 31.68529 v 5.6074 h -31.68529 z"
@@ -6691,12 +7214,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/fitted_rod.png"
          xlink:href="src/fitted_rod.png"
-         y="14.97383"
-         x="4.1155124"
-         id="image19336-6-3"
-         preserveAspectRatio="none"
+         width="36.52132"
          height="10.451041"
-         width="36.52132" />
+         preserveAspectRatio="none"
+         id="image19336-6-3"
+         x="4.1155124"
+         y="14.97383" />
       <path
          id="path6852-1-3-4"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6776,12 +7299,12 @@
       <image
          sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/10_cutting_border_ frame (3).jpg"
          xlink:href="src/10_cutting_border_ frame (3).jpg"
-         width="61.191029"
-         height="34.419949"
-         preserveAspectRatio="none"
-         id="image6941-0-7"
+         y="138.89445"
          x="172.12181"
-         y="138.89445" />
+         id="image6941-0-7"
+         preserveAspectRatio="none"
+         height="34.419949"
+         width="61.191029" />
       <rect
          style="fill:none;stroke:#826626;stroke-opacity:1"
          width="61.191029"
@@ -6823,5 +7346,547 @@
              style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.87978709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></flowRegion><flowPara
            style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.87978709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="flowPara6118-9-3-9-3-6-4">collage</flowPara></flowRoot>    </g>
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#252525;stroke-width:2.49358821;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 690.38501,446.15231 H 433.04038"
+       id="path6981-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467" />
+    <g
+       id="g6352-7-9-3-3"
+       transform="matrix(1.4386638,0,0,1.4386638,684.24093,403.05944)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/several_boards_combo (15).JPG"
+         xlink:href="src/several_boards_combo (15).JPG"
+         y="15.193767"
+         x="4.8871689"
+         id="image7423-2"
+         preserveAspectRatio="none"
+         height="24.626915"
+         width="36.940369" />
+      <path
+         id="path6340-9-8-2-0"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.03539598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 4.8871687,14.973784 V 8.5149078 H 41.820364 v 6.4557302 m -36.9331951,0.0031 H 41.823002 V 39.820682 H 4.8871689 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6348-9-3-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:-2px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,0,0.52916663)"><flowRegion
+           id="flowRegion6344-9-5-5-8"
+           style="line-height:16px;text-align:center;letter-spacing:-2px;text-anchor:middle"><rect
+             id="rect6342-1-9-9-6"
+             width="139.60001"
+             height="24.411512"
+             x="18.471189"
+             y="32.182327"
+             style="line-height:16px;text-align:center;letter-spacing:-2px;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara6346-4-4-4-9"
+           style="font-size:21.33333397px;line-height:13.33333397px;text-align:center;letter-spacing:0px;text-anchor:middle">planche finie</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot8648-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion8650-1"><rect
+             id="rect8652-2"
+             width="1126"
+             height="3214"
+             x="-3064"
+             y="-169.48032" /></flowRegion><flowPara
+           id="flowPara8654-1" /></flowRoot>    </g>
+    <g
+       id="g6352-7-9-0-8"
+       transform="matrix(1.392597,0,0,1.392597,374.37545,410.28488)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/board_naked.png"
+         xlink:href="src/board_naked.png"
+         width="34.877438"
+         height="20.697071"
+         preserveAspectRatio="none"
+         id="image29462-5"
+         x="5.9204788"
+         y="15.586974" />
+      <path
+         id="path6340-9-8-8-7"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#b64949;stroke-width:1.0696466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 4.8871687,14.973784 V 8.5149078 H 41.820364 v 6.4557302 m -36.9331951,0.0031 H 41.823002 V 36.845547 H 4.8871689 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-xdpi="146"
+         inkscape:export-ydpi="146" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6348-9-3-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:-2px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,0,0.52916663)"
+         inkscape:export-xdpi="146"
+         inkscape:export-ydpi="146"><flowRegion
+           id="flowRegion6344-9-5-1-6"
+           style="line-height:16px;text-align:center;letter-spacing:-2px;text-anchor:middle"><rect
+             id="rect6342-1-9-2-2"
+             width="139.60001"
+             height="24.411512"
+             x="18.471189"
+             y="32.182327"
+             style="line-height:16px;text-align:center;letter-spacing:-2px;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara6346-4-4-1-1"
+           style="font-size:21.33333397px;line-height:13.33333397px;text-align:center;letter-spacing:-2px;text-anchor:middle">planche nue</flowPara></flowRoot>    </g>
+    <g
+       id="g73264-5"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,380.63308,433.26639)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <g
+         inkscape:export-ydpi="146"
+         inkscape:export-xdpi="146"
+         transform="matrix(0.9487721,0,0,1.8295633,14.962619,2.0214866)"
+         id="g45745-8">
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09033352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="M -4.3480382,33.422279 H 34.211601 v 6.480187 H -4.3480382 Z"
+           id="path45743-9" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,5.1063122,54.734726)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="flowRoot6043-3-0-3-3-5-8-6-4"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="flowRegion6039-8-2-8-3-1-6-9-5"><rect
+             style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             y="32.182327"
+             x="18.471189"
+             height="45.217316"
+             width="136.99928"
+             id="rect6037-3-4-2-0-6-6-1-6" /></flowRegion><flowPara
+           id="flowPara6118-9-3-9-3-3-8"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">rabot (main)</flowPara><flowPara
+           style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="flowPara6342-2">grossier</flowPara></flowRoot>    </g>
+    <g
+       id="g73314-8"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,401.82908,405.49369)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect22952-8-19-3"
+         d="M 10.837321,105.71723 H 46.996406 V 111.794 H 10.837321 Z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,6.7688535,96.7352)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker46645-6);marker-mid:url(#marker47501-9);marker-end:url(#marker48363-1)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-7"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker46645-6);marker-mid:url(#marker47501-9);marker-end:url(#marker48363-1)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-6"><rect
+             style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker46645-6);marker-mid:url(#marker47501-9);marker-end:url(#marker48363-1)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-1" /></flowRegion><flowPara
+           id="flowPara7113-2"
+           style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker46645-6);marker-mid:url(#marker47501-9);marker-end:url(#marker48363-1)">nettoyage</flowPara></flowRoot>    </g>
+    <g
+       id="g73364-0"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,406.21842,385.85119)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         inkscape:connector-curvature="0"
+         id="path49465-0"
+         d="m 10.837321,134.54819 h 36.159085 v 6.07677 H 10.837321 Z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-3.0992915,125.81952)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker56449-7);marker-mid:url(#marker57377-8);marker-end:url(#marker58311-5)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-1-7"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker56449-7);marker-mid:url(#marker57377-8);marker-end:url(#marker58311-5)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-4-84"><rect
+             style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker56449-7);marker-mid:url(#marker57377-8);marker-end:url(#marker58311-5)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-5-4" /></flowRegion><flowPara
+           id="flowPara7113-3-6"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker56449-7);marker-mid:url(#marker57377-8);marker-end:url(#marker58311-5)">chanfrein</flowPara></flowRoot>    </g>
+    <g
+       id="g73389-2"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,414.5106,379.43316)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 10.837321,141.42734 h 36.159085 v 10.57469 H 10.837321 Z"
+         id="path49467-1"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-3.4768131,132.09024)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker59593-5);marker-mid:url(#marker60539-8);marker-end:url(#marker61491-1)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-1-4-7"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker59593-5);marker-mid:url(#marker60539-8);marker-end:url(#marker61491-1)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-4-8-7"><rect
+             style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker59593-5);marker-mid:url(#marker60539-8);marker-end:url(#marker61491-1)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-5-0-70" /></flowRegion><flowPara
+           id="flowPara7113-3-7-02"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;word-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker59593-5);marker-mid:url(#marker60539-8);marker-end:url(#marker61491-1)">sillons</flowPara></flowRoot>    </g>
+    <g
+       id="g73464-6"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,439.3961,335.86652)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         inkscape:connector-curvature="0"
+         id="path49473-5"
+         d="m 10.837321,205.45655 h 36.159085 v 6.07677 H 10.837321 Z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-3.4721625,196.85866)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker69346-5);marker-mid:url(#marker70346-5);marker-end:url(#marker71352-5)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-1-4-4-1"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker69346-5);marker-mid:url(#marker70346-5);marker-end:url(#marker71352-5)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-4-8-1-9"><rect
+             style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker69346-5);marker-mid:url(#marker70346-5);marker-end:url(#marker71352-5)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-5-0-7-2" /></flowRegion><flowPara
+           id="flowPara7113-3-7-0-93"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker69346-5);marker-mid:url(#marker70346-5);marker-end:url(#marker71352-5)">ponçage</flowPara></flowRoot>    </g>
+    <g
+       id="g73414-7"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,415.2196,356.5359)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         inkscape:connector-curvature="0"
+         id="path49465-1-5"
+         d="m 10.837321,174.76487 h 36.159085 v 6.07677 H 10.837321 Z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-3.6504869,166.33736)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker62791-3);marker-mid:url(#marker63755-7);marker-end:url(#marker64725-3)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-1-4-4-7-8"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker62791-3);marker-mid:url(#marker63755-7);marker-end:url(#marker64725-3)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-4-8-1-0-5"><rect
+             style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker62791-3);marker-mid:url(#marker63755-7);marker-end:url(#marker64725-3)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-5-0-7-0-2" /></flowRegion><flowPara
+           id="flowPara7113-3-7-0-7-5"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker62791-3);marker-mid:url(#marker63755-7);marker-end:url(#marker64725-3)">reparations</flowPara></flowRoot>    </g>
+    <g
+       id="g73489-8"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,453.71873,319.19823)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 10.837321,226.62323 H 46.996406 V 232.7 H 10.837321 Z"
+         id="path49475-2"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,3.3570029,217.86584)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker50411-6);marker-mid:url(#marker51303-3);marker-end:url(#marker52201-6)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-1-4-4-8-4"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker50411-6);marker-mid:url(#marker51303-3);marker-end:url(#marker52201-6)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-4-8-1-5-3"><rect
+             style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker50411-6);marker-mid:url(#marker51303-3);marker-end:url(#marker52201-6)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-5-0-7-5-0" /></flowRegion><flowPara
+           id="flowPara7113-3-7-0-9-9"
+           style="font-size:21.33333397px;line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker50411-6);marker-mid:url(#marker51303-3);marker-end:url(#marker52201-6)">huile chaude</flowPara></flowRoot>    </g>
+    <g
+       id="g73439-6"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,432.51664,347.02414)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 10.837321,189.14316 h 36.159085 v 6.07677 H 10.837321 Z"
+         id="path49471-4"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-3.7209207,180.44779)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:end;letter-spacing:-2px;word-spacing:0px;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker66076-8);marker-mid:url(#marker67058-8);marker-end:url(#marker68046-4)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-6-1-4-4-9-1"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker66076-8);marker-mid:url(#marker67058-8);marker-end:url(#marker68046-4)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-9-4-8-1-52-6"><rect
+             style="line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker66076-8);marker-mid:url(#marker67058-8);marker-end:url(#marker68046-4)"
+             y="32.182327"
+             x="18.471189"
+             height="47.888046"
+             width="169.04805"
+             id="rect6037-3-4-2-0-6-6-1-5-4-5-0-7-1-4" /></flowRegion><flowPara
+           id="flowPara7113-3-7-0-5-0"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker66076-8);marker-mid:url(#marker67058-8);marker-end:url(#marker68046-4)">guillochage</flowPara></flowRoot>    </g>
+    <g
+       id="g73339-5"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,409.35454,399.12499)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 10.837321,113.91068 h 36.159085 v 6.07677 H 10.837321 Z"
+         id="path49463-8"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot29488-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker53123-9);marker-mid:url(#marker54033-0);marker-end:url(#marker54949-3)"
+         transform="matrix(0.26458333,0,0,0.26458333,-3.7677076,104.84374)"><flowRegion
+           id="flowRegion29482-0"
+           style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker53123-9);marker-mid:url(#marker54033-0);marker-end:url(#marker54949-3)"><rect
+             id="rect29480-5"
+             width="169.04805"
+             height="47.888046"
+             x="18.471189"
+             y="32.182327"
+             style="line-height:16px;text-align:center;text-anchor:middle;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker53123-9);marker-mid:url(#marker54033-0);marker-end:url(#marker54949-3)" /></flowRegion><flowPara
+           style="font-size:21.33333397px;line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker53123-9);marker-mid:url(#marker54033-0);marker-end:url(#marker54949-3)"
+           id="flowPara29486-4">arrondi coin</flowPara></flowRoot>    </g>
+    <g
+       id="g73289-8"
+       transform="matrix(0.7021979,-0.7021979,0.7021979,0.7021979,405.57397,416.73873)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#5a3722;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11901552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 10.837321,87.196391 h 36.159085 v 6.076767 H 10.837321 Z"
+         id="path56247-5"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,5.0323582,78.450325)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:16px;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker41889-6);marker-mid:url(#marker42727-4);marker-end:url(#marker44433-6)"
+         id="flowRoot6043-3-0-3-3-5-8-6-2-67"
+         xml:space="preserve"><flowRegion
+           style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker41889-6);marker-mid:url(#marker42727-4);marker-end:url(#marker44433-6)"
+           id="flowRegion6039-8-2-8-3-1-6-9-8-8"><rect
+             style="line-height:16px;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker41889-6);marker-mid:url(#marker42727-4);marker-end:url(#marker44433-6)"
+             y="32.182327"
+             x="18.471189"
+             height="45.217316"
+             width="136.99928"
+             id="rect6037-3-4-2-0-6-6-1-5-9" /></flowRegion><flowPara
+           id="flowPara6118-9-3-9-3-3-5-7"
+           style="font-size:21.33333397px;line-height:16px;text-align:end;letter-spacing:-2px;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83700675px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker41889-6);marker-mid:url(#marker42727-4);marker-end:url(#marker44433-6)">defonceuse</flowPara></flowRoot>    </g>
+    <g
+       id="g17672"
+       transform="translate(29.747099,-80.822305)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/12_rough_planning_of border.jpg"
+         xlink:href="src/12_rough_planning_of border.jpg"
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         transform="matrix(0.99305779,0,0,0.99305779,330.03111,422.61193)"
+         clip-path="url(#clipPath31995-0)"
+         y="53.574326"
+         x="79.855064"
+         id="image7017-5"
+         preserveAspectRatio="none"
+         height="31.295313"
+         width="55.636108" />
+      <rect
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         id="rect73122-7"
+         y="475.81433"
+         x="409.33182"
+         height="30.750292"
+         width="48.000004"
+         style="fill:none;stroke:#69521f;stroke-width:0.99305779;stroke-opacity:1" />
+    </g>
+    <g
+       id="g114945-7"
+       transform="matrix(1.2194539,0,0,1.2194539,344.4738,310.15454)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <g
+         id="g114940-4">
+        <image
+           sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/13_planning_with_router (3).jpg"
+           xlink:href="src/13_planning_with_router (3).jpg"
+           width="55.42374"
+           height="31.175854"
+           preserveAspectRatio="none"
+           id="image7062-7"
+           x="140.12782"
+           y="64.496712"
+           clip-path="url(#clipPath34414-0)"
+           transform="translate(-31.750001,10.138668)" />
+        <rect
+           style="fill:none;stroke:#69521f;stroke-opacity:1"
+           width="47.413654"
+           height="31.175854"
+           x="111.54552"
+           y="74.635384"
+           id="rect73129-4" />
+      </g>
+    </g>
+    <g
+       id="g17676"
+       transform="translate(122.06958,-142.80219)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/14_groove_for_juice (2).jpg"
+         xlink:href="src/14_groove_for_juice (2).jpg"
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         y="-445.12473"
+         x="542.0683"
+         id="image7123-5"
+         preserveAspectRatio="none"
+         height="35.61232"
+         width="41.978336"
+         transform="rotate(90)" />
+      <rect
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         id="rect73136-7"
+         y="542.0683"
+         x="409.51239"
+         height="41.978336"
+         width="35.61232"
+         style="fill:none;stroke:#69521f;stroke-width:0.99305779;stroke-opacity:1" />
+    </g>
+    <g
+       id="g17680"
+       transform="translate(150.04511,-166.32182)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <image
+         sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/fixing_repairing.JPG"
+         xlink:href="src/fixing_repairing.JPG"
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         y="593.41876"
+         x="409.50732"
+         id="image29502-3"
+         preserveAspectRatio="none"
+         height="12.111674"
+         width="29.313753" />
+      <rect
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         id="rect73143-0"
+         y="593.41876"
+         x="409.50732"
+         height="12.111674"
+         width="29.313753"
+         style="fill:none;stroke:#69521f;stroke-width:0.99305779;stroke-opacity:1" />
+    </g>
+    <g
+       id="g17688"
+       transform="translate(132.84787,-200.80631)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <g
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         transform="matrix(0.97292485,0,0,0.97292485,362.14912,426.74464)"
+         id="g117504-2">
+        <g
+           id="g34499-4"
+           transform="matrix(1.1312189,0,0,1.1312189,-56.326148,-32.941454)">
+          <image
+             sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (1).jpg"
+             xlink:href="src/example_of_guillochage (1).jpg"
+             y="254.2715"
+             x="263.89871"
+             id="image7394-3"
+             preserveAspectRatio="none"
+             height="234.39949"
+             width="416.71021"
+             clip-path="url(#clipPath7409-9)"
+             transform="matrix(0.15395726,0,0,0.15395726,64.082291,140.13036)" />
+          <image
+             sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (2).jpg"
+             xlink:href="src/example_of_guillochage (2).jpg"
+             transform="matrix(0.07981699,-0.03510578,0.04924439,0.05690065,112.83945,128.9606)"
+             clip-path="url(#clipPath34492-9)"
+             width="1325.2174"
+             height="745.43481"
+             preserveAspectRatio="none"
+             id="image34437-1"
+             x="-1007.6458"
+             y="814.26538" />
+          <image
+             sodipodi:absref="W:\RemiCura\PROJETS\ultimately_functional_cutting_board\img\build\building_process\src/example_of_guillochage (7).jpg"
+             xlink:href="src/example_of_guillochage (7).jpg"
+             transform="matrix(0.0666132,0,0,0.0666132,79.685493,172.27445)"
+             clip-path="url(#clipPath34485-7)"
+             width="1325.2174"
+             height="745.43481"
+             preserveAspectRatio="none"
+             id="image34448-5"
+             x="944.60272"
+             y="-5.0736556" />
+        </g>
+        <rect
+           style="fill:none;stroke:#69521f;stroke-width:1.26004052;stroke-opacity:1"
+           width="80.791344"
+           height="24.841124"
+           x="82.059311"
+           y="179.8002"
+           id="rect73159-6" />
+      </g>
+    </g>
+    <g
+       id="g17692"
+       transform="translate(201.12032,-220.39045)"
+       inkscape:export-xdpi="111.49467"
+       inkscape:export-ydpi="111.49467">
+      <image
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         transform="matrix(0.99305779,0,0,0.99305779,328.98012,420.68073)"
+         clip-path="url(#clipPath34425-2)"
+         width="57.585567"
+         height="32.39188"
+         preserveAspectRatio="none"
+         xlink:href="file:///G:/Travail/THESE/PROJETS/ultimately_functional_cutting_board/img/build/20_oiling%20(1).jpg"
+         id="image29539-6"
+         x="81.144768"
+         y="215.10693"
+         sodipodi:absref="G:\Travail\THESE\PROJETS\ultimately_functional_cutting_board\img\build\20_oiling (1).jpg" />
+      <rect
+         inkscape:export-ydpi="151.02377"
+         inkscape:export-xdpi="151.02377"
+         id="rect73166-2"
+         y="638.13794"
+         x="409.56155"
+         height="25.037254"
+         width="57.185795"
+         style="fill:none;stroke:#69521f;stroke-width:0.99305779;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
